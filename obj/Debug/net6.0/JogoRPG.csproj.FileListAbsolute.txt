@@ -1,0 +1,15 @@
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/bin/Debug/net6.0/JogoRPG
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/bin/Debug/net6.0/JogoRPG.deps.json
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/bin/Debug/net6.0/JogoRPG.runtimeconfig.json
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/bin/Debug/net6.0/JogoRPG.dll
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/bin/Debug/net6.0/JogoRPG.pdb
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/JogoRPG.csproj.AssemblyReference.cache
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/JogoRPG.AssemblyInfoInputs.cache
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/JogoRPG.AssemblyInfo.cs
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/JogoRPG.csproj.CoreCompileInputs.cache
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/JogoRPG.dll
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/refint/JogoRPG.dll
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/JogoRPG.pdb
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/JogoRPG.genruntimeconfig.cache
+/home/river/Documents/Programming_/DIO_courses/BootCamp_Carrefour/JogoRPG/obj/Debug/net6.0/ref/JogoRPG.dll
