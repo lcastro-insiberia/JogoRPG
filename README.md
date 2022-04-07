@@ -5,7 +5,7 @@ utilizando os pilares da programação Orientada a Objeto no Csharp.
 
 Sendo os quatro pilares da OOP:
 H.E.P.A
-Herença
+Herança
 Encapsulamento
 Polimorfismo
 Abstração 
